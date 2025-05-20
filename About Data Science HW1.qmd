@@ -1,0 +1,50 @@
+---
+title: "About Data Science (HW1)"
+format: html
+editor: visual
+---
+
+## What do you think being a Data Scientist is about?
+
+I think of a Data Scientist as an advanced Data Analyst. A Data Analyst tends to look at current data and pulls important insights and trends that help drive business decisions and solve problems. A Data Scientist takes that idea even further by performing predictive analytics using ML on large datasets to extract meaningful insights. 
+
+## What differences/similarities do you see between data scientists and statisticians?
+
+Both fields work in data but have a different approach. Data Scientists tend to focus on computational analysis of the data and data modeling while Statisticians focus on topics such as inference and statistical theory. 
+
+* Data Scientist: Machine Learning, Big Data, Data Engineering, Python and R, tend to work in tech companies (finance, marketing, healthcare)
+
+* Statisticians: Theoretical foundations of statistical methods, experimental design, hypothesis testing, probability theory, tend to work in research (e.g., pharmaceuticals). 
+
+# How do you view yourself in relation to these two areas?
+
+I view myself more towards a Data Scientist than a Statistician, mainly based on my past experience and career goals. I enjoy ML and modeling more than I enjoy doing research. I worked as a Product Analyst intern for a tech company before where I used softwares like Python, Tableau, and SQL to derive important insights. My goal is to work in some sort of a Data Analyst or Data Scientist role in the future. However, I do possess the knowledge of a Statistician as well since I did my Bachelor's in Statistics as well.
+
+```{r}
+y <- density(iris$Petal.Width)
+```
+
+```{r}
+class(y)
+typeof(y)
+str(y)
+```
+
+```{r}
+#| echo: FALSE
+plot(y)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+

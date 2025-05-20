@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "About Data Science HW1.html",
+    "href": "About Data Science HW1.html",
+    "title": "About Data Science (HW1)",
+    "section": "",
+    "text": "I think of a Data Scientist as an advanced Data Analyst. A Data Analyst tends to look at current data and pulls important insights and trends that help drive business decisions and solve problems. A Data Scientist takes that idea even further by performing predictive analytics using ML on large datasets to extract meaningful insights."
+  },
+  {
+    "objectID": "About Data Science HW1.html#what-do-you-think-being-a-data-scientist-is-about",
+    "href": "About Data Science HW1.html#what-do-you-think-being-a-data-scientist-is-about",
+    "title": "About Data Science (HW1)",
+    "section": "",
+    "text": "I think of a Data Scientist as an advanced Data Analyst. A Data Analyst tends to look at current data and pulls important insights and trends that help drive business decisions and solve problems. A Data Scientist takes that idea even further by performing predictive analytics using ML on large datasets to extract meaningful insights."
+  },
+  {
+    "objectID": "About Data Science HW1.html#what-differencessimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "href": "About Data Science HW1.html#what-differencessimilarities-do-you-see-between-data-scientists-and-statisticians",
+    "title": "About Data Science (HW1)",
+    "section": "What differences/similarities do you see between data scientists and statisticians?",
+    "text": "What differences/similarities do you see between data scientists and statisticians?\nBoth fields work in data but have a different approach. Data Scientists tend to focus on computational analysis of the data and data modeling while Statisticians focus on topics such as inference and statistical theory.\n\nData Scientist: Machine Learning, Big Data, Data Engineering, Python and R, tend to work in tech companies (finance, marketing, healthcare)\nStatisticians: Theoretical foundations of statistical methods, experimental design, hypothesis testing, probability theory, tend to work in research (e.g., pharmaceuticals)."
+  }
+]
